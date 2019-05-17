@@ -89,7 +89,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="214283" />
+        <option name="BACKGROUND" value="3a3a3a" />
         <option name="EFFECT_COLOR" value="c4cfd3" />
       </value>
     </option>
@@ -440,6 +440,9 @@
       <value>
         <option name="FOREGROUND" value="4ec9b0" />
       </value>
+    </option>
+    <option name="PARAMETER_ATTRIBUTES">
+      <value />
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>

@@ -2,7 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping ext="prop" type="PLAIN_TEXT" />
+      <mapping ext="mp3" type="Native" />
+      <mapping pattern="xposed_init" type="PLAIN_TEXT" />
+      <mapping pattern="transmit" type="PLAIN_TEXT" />
+      <mapping ext="mk" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
